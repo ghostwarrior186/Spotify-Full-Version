@@ -286,4 +286,4 @@ This repository serves as the official landing page for Spotify. The software is
 **Get the most recent version of Spotify today!**
 
 ---
-**Last updated:** 2026-10-06 20:10:46 UTC
+**Last updated:** 2026-10-07 00:33:11 UTC
